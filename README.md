@@ -1,1 +1,1 @@
-# Todo-list on Javascript
+# Todo-list Javascript
