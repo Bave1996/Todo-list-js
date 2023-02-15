@@ -20,6 +20,18 @@ body {
     min-height: 100px;
     transform: translate(-50%, -50%);
 }
+
+.title {
+    font-family: "Poppins", sans-serif;
+    text-align: center;
+    margin-top: 10px;
+    text-transform: uppercase;
+    letter-spacing: 3px;
+    font-weight: bold;
+    text-shadow: 0 5px 10px #455acd, 0 2px 1px #0d00ff;
+    font-size: 30px;
+}
+
 .newtask {
     position: relative;
     padding: 30px 20px;
